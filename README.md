@@ -15,6 +15,8 @@ Each deliverable can be found in respective folders of the same name.
 
 The website provides insight into who we are and what we offer. These are detailed in four separate pages: Homepage, About page, Services page, and Contact page. The site map aids in visualizing content on the website.
 
+![alt text](https://github.com/Elysia-Jewel/EvolveStrengthStudio/blob/website/image.jpg?raw=true](https://github.com/Elysia-Jewel/EvolveStrengthStudio/blob/main/Evolve%20Strength%20Studio%20-%20Site%20Map.png?raw=true)
+
 Website URL: https://elysiajlyc.wixsite.com/evolvestrengthstudio
 
 Site map URL: https://lucid.app/lucidchart/fc3c3346-a799-48ab-bb41-a63ea5632fe8/edit?viewport_loc=-392%2C16%2C1790%2C944%2CtJTbWpefQog1&invitationId=inv_004e9618-21e1-4c04-ac12-331b7f8424ed
