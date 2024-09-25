@@ -15,7 +15,7 @@ Each deliverable can be found in respective folders of the same name.
 
 The website provides insight into who we are and what we offer. These are detailed in four separate pages: Homepage, About page, Services page, and Contact page. The site map aids in visualizing content on the website.
 
-![alt text](https://github.com/Elysia-Jewel/EvolveStrengthStudio/blob/main/Evolve%20Strength%20Studio%20-%20Site%20Map.png?raw=true)
+![alt text](https://github.com/Elysia-Jewel/Pushpoint/blob/main/Evolve%20Strength%20Studio%20-%20Site%20Map.png?raw=true)
 
 
 Website URL: https://elysiajlyc.wixsite.com/pushpoint
