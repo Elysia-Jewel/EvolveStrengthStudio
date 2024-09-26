@@ -27,6 +27,7 @@ Site map URL: https://lucid.app/lucidchart/fc3c3346-a799-48ab-bb41-a63ea5632fe8/
 [description]
 
 Figma URL:
+https://www.figma.com/design/iJGCWEXCKK2zdg3kQS01pV/FITNESS-APP-UI-DESIGN-CONCEPT-(Community)?node-id=0-1&t=XNKTU64IyzNBkKEP-1
 
 ## 3. User manual
 [description]
