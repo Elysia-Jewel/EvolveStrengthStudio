@@ -23,23 +23,27 @@ Site map URL: https://lucid.app/lucidchart/fc3c3346-a799-48ab-bb41-a63ea5632fe8/
 
 
 ## 2. Figma prototype
-[description]
+A Figma prototype is an interactive design model that simulates the user experience of a website or app. It allows users to click through various screens, showcasing the layout, design elements, and key interactions. It provides a clear view of how users will navigate through the platform, ensuring a seamless and intuitive design.
 
-Figma URL: https://www.figma.com/design/iJGCWEXCKK2zdg3kQS01pV/FITNESS-APP-UI-DESIGN-CONCEPT-(Community)
+Figma URL: https://www.figma.com/design/iJGCWEXCKK2zdg3kQS01pV/FITNESS-APP-UI-DESIGN-CONCEPT-(Community)?node-id=0-1&t=XNKTU64IyzNBkKEP-1
+
 
 ## 3. User manual
 This provides a comprehensive description of the PUSHPOINT Mobile App User Manual, detailing the various features and functions available within the app. The manual is structured to ensure users fully understand and utilize the app’s tools to achieve their fitness goals.
 
 Canva URL: https://www.canva.com/design/DAGRwKBeULM/own3AL9dYCEgblM3jy0l6w/edit?utm_content=DAGRwKBeULM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+
 ## 4. Video presentation
 
 Each member takes turn presenting the website, mobile app prototype, and user manual. 
+Video presentation URL: https://mmuedumy-my.sharepoint.com/:f:/g/personal/yap_shen_yee_student_mmu_edu_my/Esayqo4kSvxKu8ab4QIt07gBTTMu4KOHfqk8HqJgd4tRTw?e=vj6VZI
 
-- YAP SHEN YEE: [which part]
-- BIANCA LAU YING XUAN: [which part]
-- SAMIEON NGIAM TUN SHEN: [which part]
-- ELYSIA JEWEL LEE YING CI: [which part]
+
+- YAP SHEN YEE: Figma mobile app prototype
+- BIANCA LAU YING XUAN: User manual on Canva
+- SAMIEON NGIAM TUN SHEN: Figma mobile app prototype
+- ELYSIA JEWEL LEE YING CI: Wix website
 
 ## 5. Git Log
 Screenshots of activities using Git and GitHub.
