@@ -6,8 +6,7 @@ Here, you will find all the files that make up our business, and as required by 
 2.	Figma prototype for
 3.	User manual for mobile application
 4.	Recorded Video presentation
-5.	Peer Evaluation Form
-6.	Git log
+5.	Git log
 
 Each deliverable can be found in respective folders of the same name.
 
@@ -42,8 +41,5 @@ Each member takes turn presenting the website, mobile app prototype, and user ma
 - SAMIEON NGIAM TUN SHEN: [which part]
 - ELYSIA JEWEL LEE YING CI: [which part]
 
-## 5. Peer Evaluation Form
-Filled and signed by all team members.
-
-## 6. Git Log
+## 5. Git Log
 Screenshots of activities using Git and GitHub.
