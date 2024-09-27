@@ -48,3 +48,9 @@ Video presentation URL: https://mmuedumy-my.sharepoint.com/:f:/g/personal/yap_sh
 
 ## 5. Git Log
 Screenshots of activities using Git and GitHub.
+
+![git](https://github.com/user-attachments/assets/4e2c9eff-ba1c-48e6-b4dc-cc168afda08a)
+![屏幕截图 2024-09-27 233431](https://github.com/user-attachments/assets/4f192203-2f63-440f-955f-2c04a920f6c3)
+![屏幕截图 2024-09-27 233516](https://github.com/user-attachments/assets/2b678e42-3d81-4115-bcb7-a13a00eaf911)
+![屏幕截图 2024-09-27 233607](https://github.com/user-attachments/assets/8abc21d5-1a74-4f66-95e6-c1c22cc537b6)
+![Screenshot (48)](https://github.com/user-attachments/assets/6bc3f0b7-0783-4c3a-b451-db5d98038b44)
