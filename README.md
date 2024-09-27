@@ -6,8 +6,7 @@ Here, you will find all the files that make up our business, and as required by 
 2.	Figma prototype for
 3.	User manual for mobile application
 4.	Recorded Video presentation
-5.	Peer Evaluation Form
-6.	Git log
+5.	Git log
 
 Each deliverable can be found in respective folders of the same name.
 
@@ -29,9 +28,9 @@ Site map URL: https://lucid.app/lucidchart/fc3c3346-a799-48ab-bb41-a63ea5632fe8/
 Figma URL:
 
 ## 3. User manual
-[description]
+This provides a comprehensive description of the PUSHPOINT Mobile App User Manual, detailing the various features and functions available within the app. The manual is structured to ensure users fully understand and utilize the app’s tools to achieve their fitness goals.
 
-Canva URL:
+Canva URL: https://www.canva.com/design/DAGRwKBeULM/own3AL9dYCEgblM3jy0l6w/edit?utm_content=DAGRwKBeULM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 4. Video presentation
 
@@ -42,8 +41,5 @@ Each member takes turn presenting the website, mobile app prototype, and user ma
 - SAMIEON NGIAM TUN SHEN: [which part]
 - ELYSIA JEWEL LEE YING CI: [which part]
 
-## 5. Peer Evaluation Form
-Filled and signed by all team members.
-
-## 6. Git Log
+## 5. Git Log
 Screenshots of activities using Git and GitHub.
