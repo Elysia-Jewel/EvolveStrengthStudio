@@ -6,8 +6,7 @@ Here, you will find all the files that make up our business, and as required by 
 2.	Figma prototype for
 3.	User manual for mobile application
 4.	Recorded Video presentation
-5.	Peer Evaluation Form
-6.	Git log
+5.	Git log
 
 Each deliverable can be found in respective folders of the same name.
 
@@ -30,9 +29,9 @@ Figma URL: https://www.figma.com/design/iJGCWEXCKK2zdg3kQS01pV/FITNESS-APP-UI-DE
 
 
 ## 3. User manual
-This provides a comprehensive description of the PUSHPOINT Mobile App User Manual, detailing the various features and functions available within the app. The manual is structured to ensure users fully understand and utilize the app’s tools to achieve their fitness goals.
+This provides a comprehensive description of the PUSHPOINT Mobile App User Manual, detailing the various features and functions available within the app. The manual is structured to ensure users fully understand and utilize the app’s tools to achieve their fitness goals.
 
-Canva URL:https://www.canva.com/design/DAGRwKBeULM/own3AL9dYCEgblM3jy0l6w/edit 
+Canva URL: https://www.canva.com/design/DAGRwKBeULM/own3AL9dYCEgblM3jy0l6w/edit?utm_content=DAGRwKBeULM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ## 4. Video presentation
@@ -41,13 +40,10 @@ Each member takes turn presenting the website, mobile app prototype, and user ma
 Video presentation URL: https://mmuedumy-my.sharepoint.com/:f:/g/personal/yap_shen_yee_student_mmu_edu_my/Esayqo4kSvxKu8ab4QIt07gBTTMu4KOHfqk8HqJgd4tRTw?e=vj6VZI
 
 
-- YAP SHEN YEE: [figma mobile app]
-- BIANCA LAU YING XUAN: [canva]
-- SAMIEON NGIAM TUN SHEN: [figma mobile app]
-- ELYSIA JEWEL LEE YING CI: [wix webite]
+- YAP SHEN YEE: Figma mobile app prototype
+- BIANCA LAU YING XUAN: User manual on Canva
+- SAMIEON NGIAM TUN SHEN: Figma mobile app prototype
+- ELYSIA JEWEL LEE YING CI: Wix website
 
-## 5. Peer Evaluation Form
-Filled and signed by all team members.
-
-## 6. Git Log
+## 5. Git Log
 Screenshots of activities using Git and GitHub.
